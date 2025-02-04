@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EchoesOfEarth.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\quint\Desktop\EchoesOfEarth\Intermediate\Build\Win64\x64\EchoesOfEarthEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\quint\Desktop\EchoesOfEarth\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfEarth\EchoesOfEarth.cpp.obj"
+"C:\Users\quint\Desktop\EchoesOfEarth\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfEarth\PerModuleInline.gen.cpp.obj"
+"C:\Users\quint\Desktop\EchoesOfEarth\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfEarth\Default.rc2.res"
+/OUT:"C:\Users\quint\Desktop\EchoesOfEarth\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfEarth\UnrealEditor-EchoesOfEarth.lib"

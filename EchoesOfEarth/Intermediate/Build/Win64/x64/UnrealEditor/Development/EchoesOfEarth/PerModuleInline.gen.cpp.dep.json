@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\quint\\desktop\\echoesofearth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\echoesofearth\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\quint\\desktop\\echoesofearth\\intermediate\\build\\win64\\x64\\echoesofeartheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\quint\\desktop\\echoesofearth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\echoesofearth\\definitions.echoesofearth.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

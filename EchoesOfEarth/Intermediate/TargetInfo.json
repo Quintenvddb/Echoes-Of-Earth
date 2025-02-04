@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EchoesOfEarth",
+			"Path": "..\\Source\\EchoesOfEarth.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EchoesOfEarthEditor",
+			"Path": "..\\Source\\EchoesOfEarthEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

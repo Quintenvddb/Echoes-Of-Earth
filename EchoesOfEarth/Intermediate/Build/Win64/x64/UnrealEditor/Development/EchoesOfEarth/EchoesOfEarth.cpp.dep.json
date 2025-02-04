@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\quint\\desktop\\echoesofearth\\source\\echoesofearth\\echoesofearth.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\quint\\desktop\\echoesofearth\\intermediate\\build\\win64\\x64\\echoesofeartheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\quint\\desktop\\echoesofearth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\echoesofearth\\definitions.echoesofearth.h",
+            "c:\\users\\quint\\desktop\\echoesofearth\\source\\echoesofearth\\echoesofearth.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

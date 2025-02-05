@@ -79,3 +79,5 @@ DerivedDataCache/*
 *.log
 
 EchoesOfEarth/Saved/Logs/
+
+EchoesOfEarth/Saved/Config/CrashReportClient/

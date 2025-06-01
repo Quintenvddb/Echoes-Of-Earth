@@ -1,8 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\quint\\Desktop\\EchoesOfEarth\\Source\\EchoesOfEarth\\EchoesOfEarth.Build.cs",
-		"C:\\Users\\quint\\Desktop\\EchoesOfEarth\\Source\\EchoesOfEarth.Target.cs",
-		"C:\\Users\\quint\\Desktop\\EchoesOfEarth\\Source\\EchoesOfEarthEditor.Target.cs"
+		"C:\\Users\\quint\\Documents\\Unreal Projects\\Echoes-Of-Earth\\EchoesOfEarth\\Source\\EchoesOfEarth\\EchoesOfEarth.Build.cs",
+		"C:\\Users\\quint\\Documents\\Unreal Projects\\Echoes-Of-Earth\\EchoesOfEarth\\Plugins\\FastNoisa268f1df273fV12\\Source\\FastNoiseGenerator\\FastNoiseGenerator.Build.cs",
+		"C:\\Users\\quint\\Documents\\Unreal Projects\\Echoes-Of-Earth\\EchoesOfEarth\\Plugins\\FastNoisa268f1df273fV12\\Source\\ThirdParty\\FastNoise\\FastNoise.Build.cs",
+		"C:\\Users\\quint\\Documents\\Unreal Projects\\Echoes-Of-Earth\\EchoesOfEarth\\Source\\EchoesOfEarth.Target.cs",
+		"C:\\Users\\quint\\Documents\\Unreal Projects\\Echoes-Of-Earth\\EchoesOfEarth\\Source\\EchoesOfEarthEditor.Target.cs"
 	],
-	"EngineVersion": "5.5.2"
+	"EngineVersion": "5.5.4"
 }
